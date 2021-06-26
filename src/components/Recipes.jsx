@@ -38,3 +38,5 @@ const Recipes = () => {
     </div>
   );
 };
+
+export default Recipes;
